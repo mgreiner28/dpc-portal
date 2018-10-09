@@ -1,0 +1,32 @@
+
+.label {margin-right:5px;margin-bottom:5px !important;display:inline-block;} #wrapper {
+    position: relative;
+}
+
+
+/***
+* Custom Header Styles
+**/
+.skin-blue .main-header .navbar {
+    background-color: #002c49 !important;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #001d30 !important;
+}
+
+.main-header .logo .logo-lg {
+        display: block;
+    background-image: url(../img/DPC18_Logo01.png);
+    max-width: 100px;
+    height: 55px;
+    /* width: 25%; */
+    margin: 0 auto;
+}
+
+/***
+* Custom Row Styles
+**/
+th {
+	white-space: nowrap;
+}
